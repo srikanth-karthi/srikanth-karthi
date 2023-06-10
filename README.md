@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">🔭 I'm currently pursuing B.E. Electronics and Communication Engineering at Sri krishna College of technology<br>👨‍💻 Self-motivated and hardworking fresher seeking                     for an opportunity to work in a challenging                     environment to prove my skills and utilize my                     knowledge in the growth of the organization.</p>
+<p align="left">With 3 years of experience in Electronic and Communication Engineering and a focus on full stack web development, I am currently pursuing my final year at Sri Krishna College of Technology in Coimbatore. My strong academic performance, including an 8.34 CGPA, showcases my dedication to excellence.
+
+My educational background includes schooling at Thamarai Matric Higher Secondary School, where I excelled with a remarkable 89.2% in SSLC and 81.6% in HSC.
+
+Proficient in web development technologies such as HTML, CSS, and JavaScript frameworks like Angular, I am also skilled in backend development using Node.js and MongoDB. Additionally, I have a solid foundation in Java and basic programming knowledge in C and C++. While I am still in the learning stage, my GitHub and LinkedIn profiles highlight my practical experience.
+
+Throughout my academic journey, I have successfully completed several projects, including a radar using Arduino and an ultrasonic sensor. I have also developed various JavaScript projects like todo applications,die rool simulator, calculator, clocks, timers, number counters, photo editor, and text-to-audio converters. Additionally, I have experience with basic API projects such as meme generators, country guides, and joke generators. Furthermore, I have worked on Node.js projects, including an authorized login and sign-up form with encrypted passwords and email verification, a URL shrinker web application, and a CRUD application.
+
+In addition to my technical skills, I have published a blog page on the topic of cybercrime, demonstrating my passion for knowledge sharing. As a volunteer for NSS, the Election Commission, and as a blood donor, I actively contribute to the community. Furthermore, I serve as the Social Media Coordinator for the Chithiram Club at my college.
+
+In addition to my academic pursuits, I have completed relevant online courses, internships, and bootcamps to enhance my skills in areas such as effective writing, ethics in engineering, programming, and cybersecurity.
+
+Open to new opportunities, I am seeking a role where I can apply my skills, contribute to meaningful projects, and continue to learn and grow as a professional. Let's connect to explore potential collaborations.</p>
 
 ###
 
