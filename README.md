@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left
+<p align="left" >
 
 Welcome to my Git profile! Here you'll find a collection of my projects, contributions, and experiences. Feel free to explore and collaborate.
 
