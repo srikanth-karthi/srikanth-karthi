@@ -16,13 +16,13 @@ Welcome to my Git profile! Here you'll find a collection of my projects, contrib
 
 ## About Me 🎓💻
 
-With 3 years of experience in Electronic and Communication Engineering and a focus on full stack web development, I am currently pursuing my final year at Sri Krishna College of Technology in Coimbatore. My strong academic performance, including an 8.34 CGPA, showcases my dedication to excellence. 🚀
+I am a motivated final year student currently pursuing a Bachelor's degree in Electronics and Communication Engineering. My academic journey has been marked by a strong emphasis on full stack web development. With a fervent passion for programming, I am eager to take on new challenges and opportunities in the dynamic world of technology.
 
 
 
 ## Skills and Technologies 🌐🔧
 
-Proficient in web development technologies such as HTML, CSS, and JavaScript frameworks like Angular, I am also skilled in backend development using Node.js and MongoDB. Additionally, I have a solid foundation in Java and basic programming knowledge in C and C++. While I am still in the learning stage, my GitHub and LinkedIn profiles highlight my practical experience. 💪💻
+My skill set is centered around the realm of full stack web development. I possess a comprehensive understanding of HTML, CSS, and JavaScript frameworks, particularly Angular. On the backend, I am well-versed in utilizing technologies like Node.js and Express.js, along with proficiency in managing databases such as MySQL and MongoDB. Additionally, my foundational knowledge in programming languages such as Java, C, and C++ further enriches my capabilities. As a dedicated learner, I am committed to continuously expanding and refining my expertise in the ever-evolving field of web development.
 
 ## 
 
