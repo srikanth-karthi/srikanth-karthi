@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Srikanth K  from coimbatore</h2>
+<h2 align="left">My name is Srikanth K  from Erode</h2>
 
 ###
 
