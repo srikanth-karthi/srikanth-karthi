@@ -63,10 +63,15 @@ My skill set is centered around the realm of full stack web development. I posse
   <a href="https://www.facebook.com/srikanth.karthikeyan.73/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/srikanth_karthikeyan_/" target="_blank">
+  <a href="https://www.instagram.com/srikanth_karthikeyan_/" target="_blank"></a>
+  
 
 
-    
+
+  </a>
+    <a href="srikanthkarthi2003@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanth-karthi&show_icons=true&locale=en&layout=compact" alt="srikanth-karthi" /></p>
 
@@ -76,9 +81,7 @@ My skill set is centered around the realm of full stack web development. I posse
 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="srikanthkarthi2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
 </div>
 
 
