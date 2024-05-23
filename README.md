@@ -79,7 +79,6 @@ My skill set is centered around the realm of full stack web development. I posse
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanth-karthi&" alt="srikanth-karthi" /></p>
 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 
 </div>
