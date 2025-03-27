@@ -1,11 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<h2 align="left">I'm Srikanth K from Erode</h2>
+<h2 align="left">I'm Srikanth K </h2>
 
 <h3 align="left">💻 DevOps Engineer | Full-Stack Developer</h3>
 
 <p align="left">
-Welcome to my GitHub profile! I'm a passionate final-year Electronics and Communication Engineering student with a strong focus on full-stack web development and DevOps practices. I love turning ideas into scalable, high-performance systems and am always excited to learn and collaborate!
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer and Full-Stack Developer with a strong focus on building scalable, high-performance systems. With experience in cloud technologies and modern web development stacks, I thrive on turning ideas into impactful solutions and love collaborating on innovative tech projects.
+
 </p>
 
 ---
@@ -81,10 +82,3 @@ Welcome to my GitHub profile! I'm a passionate final-year Electronics and Commun
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
----
-
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanth-karthi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanth-karthi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanth-karthi&" alt="GitHub Streak" /></p>
