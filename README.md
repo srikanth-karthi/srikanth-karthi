@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and Full-Stack De
 
 ## 📘 About Me
 
-🎓 Final-year B.E. ECE student  
 💻 DevOps Engineer | Full-Stack Developer  
 ☁️ Experienced in **Cloud Computing**, **ASP.NET Web API**, and the **MEAN Stack**  
 🔧 Skilled at building scalable systems, automating deployments, and streamlining CI/CD pipelines  
