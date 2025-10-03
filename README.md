@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <h2 align="left">I'm Srikanth K </h2>
+<img src="https://komarev.com/ghpvc/?username=srikanth-karthi&color=blue&style=flat-square" alt="Profile views"/>
 
 <h3 align="left">💻 DevOps Engineer | Full-Stack Developer</h3>
 
